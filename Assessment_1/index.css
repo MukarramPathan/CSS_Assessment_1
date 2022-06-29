@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    border: 2px solid red;
+    color: silver;
+    padding: 10px;
+}
+h1{
+    color: red;
+}
+.one{
+    color: red;
+    font-style: italic;
+    font-weight: bold;
+    font-size: large;
+}
+ol{
+    color: seagreen;
+    font-size: 16px;
+}
+.line{
+    text-decoration: line-through;
+}
+.two{
+    background-color: yellow;
+    color: seagreen ;
+}
+.under{
+    text-decoration: underline;
+}
+ul{
+   letter-spacing: 5px;
+   font-size: 15px;
+}
+p{
+    font-size: small
+}
+.three{
+    background-color: yellow;
+    font-style: italic;
+}
